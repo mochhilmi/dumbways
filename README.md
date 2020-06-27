@@ -1,7 +1,7 @@
 <h1 align="center"> Dumbways </h1>
 
 <p align="justify">
-    This repository contains my answer for Bootcamp Dumbways Test Batch 17. I use javascript and python programming language and MySql database for answer the problem dan using visual studio code as a text editor.
+    This repository contains my answer for Bootcamp Dumbways Test Batch 17. I use javascript and python programming language and MySql database for answer the problem and using visual studio code as a text editor.
 </p>
 
 <h3> for the answers number 1 - 3 you can run in online editors like https://glot.io/ </h3>
