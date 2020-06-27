@@ -7,13 +7,14 @@
 <h3> for the answers number 1 - 3 you can run in online editors like https://glot.io/ </h3>
 
 <h4>Query to display all data from the provinsi table</h4>
-<img src="provinsi.png">
-<br/>
-<br/>
+<image width="800" src="provinsi.png">
+<br>
+<br>
 
 <h4>Query to display all data from the provinsi table and kabupaten table</h4>
-<img src="provinsi & kabupaten.png">
-<br/>
-<br/>
+<image width="800" src="provinsi & kabupaten.png">
+<br>
+<br>
+
 <h4>Query to display all data from the provinsi table located on the island of sumatra</h4>
-<img src="provinsi pulau.png">
+<image width="800" src="provinsi pulau.png">
