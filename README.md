@@ -18,3 +18,7 @@
 
 <h4>Query to display all data from the provinsi table located on the island of sumatra</h4>
 <image width="800" src="provinsi pulau.png">
+<br>
+<br>
+
+<h4>I am sorry for the limited my knowledge, I could not complete the CRUD task</h4>
