@@ -24,4 +24,4 @@ def drawimage(a):
                         print('#',end=' ')
             print('\n')
 
-drawimage(7)
+drawimage(8)
